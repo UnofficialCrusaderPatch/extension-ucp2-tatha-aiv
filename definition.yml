@@ -1,6 +1,5 @@
 name: ucp2-tatha-aiv
-display-name: ucp2-tatha-aiv-applied
-display-name: "Tatha Castles"
+display-name: "Tatha Castles Applied"
 author: Tatha & UCP-Team
 version: 2.15.1
 dependencies:
